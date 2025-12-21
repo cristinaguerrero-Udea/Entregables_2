@@ -1,10 +1,11 @@
 Tutulo:  Análisis de precios de medicamentos en Colombia usando datos abiertos
 
-Descripción del proyecto:
-El acceso equitativo a los medicamentos es un componente fundamental de la salud pública. En Colombia, los precios de los medicamentos pueden variar significativamente dependiendo de múltiples factores, lo que puede afectar la disponibilidad y el acceso por parte de la población.
-Este proyecto tiene como objetivo realizar un análisis exploratorio y estadístico de los precios de medicamentos en Colombia, utilizando datos abiertos oficiales, con el fin de identificar patrones, variabilidad de precios y posibles concentraciones de valores atípicos que puedan tener implicaciones en la gestión y regulación farmacéutica.
+Descripción del proyecto: 
+
+El acceso equitativo a los medicamentos es un componente fundamental de la salud pública. En Colombia, los precios de los medicamentos pueden variar significativamente dependiendo de múltiples factores, lo que puede afectar la disponibilidad y el acceso por parte de la población. Este proyecto tiene como objetivo realizar un análisis exploratorio y estadístico de los precios de medicamentos en Colombia, utilizando datos abiertos oficiales, con el fin de identificar patrones, variabilidad de precios y posibles concentraciones de valores atípicos que puedan tener implicaciones en la gestión y regulación farmacéutica.
 
 Preguntas de investigación:
+
 ¿Cuál es el comportamiento general de los precios de los medicamentos en Colombia?
 ¿Qué medicamentos presentan los precios promedio más altos?
 ¿Existe una alta dispersión en los precios de ciertos medicamentos?
