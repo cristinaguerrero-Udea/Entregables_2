@@ -20,7 +20,7 @@ Origen de los datos.
 - URL de extracción de datos:https://www.datos.gov.co/resource/3t73-n4q9.json
 - Fecha de descarga: 18 de diciembre de 2025
   
-Descripción del dataset:El conjunto de datos contiene información relacionada con los precios reportados de medicamentos en Colombia, incluyendo variables asociadas al producto farmacéutico y valores económicos que permiten realizar análisis estadísticos sobre su comportamiento en el mercado.
+Descripción del dataset: El conjunto de datos contiene información relacionada con los precios reportados de medicamentos en Colombia, incluyendo variables asociadas al producto farmacéutico y valores económicos que permiten realizar análisis estadísticos sobre su comportamiento en el mercado.
 
 Metodología.
 El desarrollo del proyecto se llevó a cabo siguiendo un enfoque de análisis de datos estructurado, utilizando herramientas de ciencia de datos en Python y datos abiertos oficiales de Colombia. La metodología se dividió en las siguientes etapas:
